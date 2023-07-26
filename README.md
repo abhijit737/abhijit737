@@ -7,8 +7,6 @@
 
 - 🌱 I’m currently learning **DotNet**
 
-- 💬 Ask me about **java,Springboot**
-
 - 📫 How to reach me **abhijitm737@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
