@@ -7,6 +7,8 @@
 
 - 🌱 I’m currently learning **DotNet**
 
+- 😀 I have worked on **Java_C#_React.js_BootStrap_Springboot_MySQL_MongoDB**
+ 
 - 📫 How to reach me **abhijitm737@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
