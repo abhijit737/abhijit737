@@ -1,4 +1,4 @@
-
+![logo](https://github.com/abhijit737/abhijit737/blob/main/Blue%20Modern%20Digital%20Marketing%20linkedIn%20article%20cover%20image%20(1).png)
 <h1 align="center">Hi 👋 , I'm Abhijit</h1>
 <h3 align="center">A passionate FullStack developer from India</h3>
 <img align="right" alt="coding" width="400" src ="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif"> 
