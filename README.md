@@ -6,9 +6,7 @@
 
 - 🔭 I’m currently looking opportunity for **Software_Developer**
 
-- 🌱 I’m currently learning **DotNet**
-
-- 😀 I have worked on **Java_C#_React.js_BootStrap_Springboot_MySQL_MongoDB**
+- 😀 I have skills on **C#,DOTNET_BootStrap_MVC_Rest API,MySQL_HTML,CSS,**
  
 - 📫 How to reach me **abhijitm737@gmail.com**
 
