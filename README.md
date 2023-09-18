@@ -4,13 +4,13 @@
 <img align="right" alt="coding" width="400" src ="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif"> 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abhijit737&label=Profile%20views&color=0e75b6&style=flat" alt="abhijit737" /> </p>
 
-- 🔭 I’m currently looking opportunity for **Software_Developer**
+ - 🔭 I’m currently looking opportunity for **Software_Developer**
 
-- 🌱 I’m currently learning **DotNet**
+ - 🌱 I’m currently learning **DotNet**
 
-- 😀 I have worked on **Java_C#_React.js_BootStrap_Springboot_MySQL_MongoDB**
+ - 😀 I have worked on **Java_C#_React.js_BootStrap_Springboot_MySQL_MongoDB**
  
-- 📫 How to reach me **abhijitm737@gmail.com**
+ - 📫 How to reach me **abhijitm737@gmail.com**
 
 
 <h3 align="left">Connect with me:</h3>
