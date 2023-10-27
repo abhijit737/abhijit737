@@ -6,10 +6,8 @@
 
  - 🔭 I’m currently looking opportunity for **Software_Developer**
 
- - 🌱 I’m currently learning and working on **DotNet**
+ - 🌱 I’m currently learning and working on **DotNetCore_MVC_Azure**
 
- - 😀 I have worked on **C#_Java_React.js_BootStrap_Springboot_MySQL_Asure**
- 
  - 📫 How to reach me **abhijitm737@gmail.com**
 
 
