@@ -6,7 +6,7 @@
  
  - 🏛 I am Engineering Passout in 2022.
    
- - 🔭I Have 2+ Experince in Corporate, Currently Working as **Software_Developer** in Infolent Technologies.
+ - 🔭I Have 2+ Experience in Corporate, Currently Working as **Software_Developer** in Infolent Technologies.
   
  - 📫 How to reach me **abhijitm737@gmail.com**
 
