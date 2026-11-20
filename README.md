@@ -6,7 +6,7 @@
  
  - 🏛 I am Engineering Passout in 2022.
    
- - 🔭I Have 3 + Experience in Corporate, Currently Working as **FullStack Developer** .
+ - 🔭I Have 5 years of Experience in Corporate, Currently Working as **FullStack Developer** .
   
  - 📫 How to reach me **abhijitmore54@gmail.com**
 
