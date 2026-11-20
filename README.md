@@ -8,8 +8,9 @@
    
  - 🔭I Have 5 years of Experience in Corporate, Currently Working as **FullStack Developer** .
   
- - 📫 How to reach me **abhijitmore54@gmail.com**
-
+ - 📫 How to reach me **abhijitmore909@gmail.com**
+ 
+<h3 align="center">Mostly Projects are Confedential so you are not able to see it</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
